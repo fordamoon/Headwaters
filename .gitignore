@@ -1,0 +1,7 @@
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+output/
+*.pyc
+__pycache__/
+sample_generated_data.csv
